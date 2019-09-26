@@ -11,7 +11,7 @@ OpenNQG is a package built on PyTorch from WING-NUS to facilitate Neural Questio
 
 Below is an overview of the mechanisms included in OpenNQG
 
-![Mechanism Overview]()
+![Mechanism Overview](https://github.com/YuxiXie/OpenNQG/blob/master/OpenNQG.png)
 
 ## Installation
 
